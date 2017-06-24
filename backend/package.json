@@ -1,0 +1,27 @@
+{
+    "name": "gps-tracking",
+    "version": "0.0.1",
+    "description": "Manipulate GPS tracks and coordinates",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "author": "Julien Nogueira",
+    "license": "MIT",
+    "repository": {
+    "type": "git",
+        "url": "git+https://github.com/JulienNog/fullstack-test-sporthereos.git"
+    },
+    "keywords": [
+        "gps",
+        "tracking",
+        "coordinates"
+    ],
+    "bugs": {
+        "url": "https://github.com/JulienNog/fullstack-test-sporthereos/issues"
+    },
+    "devDependencies": {
+        "chai": "^4.0.2",
+        "mocha": "^3.4.2"
+    }
+}
