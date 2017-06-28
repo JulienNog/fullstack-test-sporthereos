@@ -9,6 +9,7 @@ A library allwoing to manipulate GPS tracks and coordinates to determine distanc
 
 ## Usage
 
+```js
   var gpsTracker = require('gps-tracking'),
       trackEntersBox = gpsTracker.trackEntersTheBox,
       trackInBox = gpsTracker.trackIsInTheBox,
@@ -30,6 +31,7 @@ A library allwoing to manipulate GPS tracks and coordinates to determine distanc
   var distance = distTrackPoint(gpsTrack, gpsPoint);
   var distance = distAtNearest(gpsTrack, anotherGpsTrack, ignoreTime);
   var timestamp = timeAtNearest(gpsTrack, anotherGpsTrack);
+```
 
 ## Tests
 
