@@ -1,0 +1,25 @@
+{
+    "name": "ranking-list",
+    "description": "Manage rankings and users to return a list which combined them",
+    "version": "0.0.1",
+    "license": "MIT",
+    "main": [
+        "main.js"
+    ],
+    "dependencies": {
+        "angular": "1.5.x",
+        "angular-mocks": "1.5.x"
+    },
+    "keywords": [
+        "ranking",
+        "users"
+    ],
+    "authors": [
+        "Julien Nogueira <julien.nogueira19@gmail.com>"
+    ],
+    "ignore": [
+        "**/.*",
+        "bower_components"
+    ],
+    "private": false
+}
