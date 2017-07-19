@@ -1,0 +1,19 @@
+{
+  "name": "ranking-list",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienNog/fullstack-test-sporthereos.git"
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.6.4",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  },
+  "dependencies": {}
+}

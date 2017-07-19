@@ -22,4 +22,7 @@ The solution provided for the backend test contains everything that was asked:
 
 ## Frontend
 
-TODO
+The solution provided for the frontend test contains the following:
++ the function getRanking(rankingId)
++ unitary tests
++ bower.json configured to be published on bower
